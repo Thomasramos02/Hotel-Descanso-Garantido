@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <munit.h>
-#include "main.c"  // Inclui o arquivo principal para testar as funções
+#include "hotel.c"// Inclui o arquivo principal para testar as funções
 
 // Funções auxiliares para os testes
 static void cadastrarClienteTest(const char *nome, int telefone) {
